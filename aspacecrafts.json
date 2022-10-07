@@ -2,7 +2,7 @@
   {
     "id": "28",
     "name": "Voyager A",
-    "propellant": "Warp Drive",
+    "propellant": "B",
     "destination": "Alpha Centauri A",
     "imageurl": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/spacecrafts/voyager.jpg",
     "technologyexists": "1"
