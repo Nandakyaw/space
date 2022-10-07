@@ -2,7 +2,7 @@
   {
     "id": "28",
     "name": "Voyager A",
-    "propellant": "Voyager A",
+    "propellant": "နေကောင်းလား ကျန်းမာလား အစမ်းတင်ထားတဲ့စာ ဖြစ်ပါသည် မင်းသမီး မင်းသား ကိုယ်ရေး ရာဇဝင်နဲ့ Live TV ဘယ်လိုကြည့်ရမလဲဆိုတာတွေတင်ပေးဖို့ရှိပါတယ်",
     "destination": "Alpha Centauri A",
     "imageurl": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/spacecrafts/voyager.jpg",
     "technologyexists": "1"
